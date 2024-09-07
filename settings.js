@@ -18,7 +18,7 @@ global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
 global.botname = 'Cheems Bot MD V15' //ur bot name
-global.ownernumber = ['6285810018405'] //ur owner number, dont add more than one
+global.ownernumber = ['2347017055600'] //ur owner number, dont add more than one
 global.ownername = '𝑭𝒊𝒌𝒓𝒊 ダ' //ur owner name
 global.websitex = "https://youtu.be/tLq8_qOOGFI"
 global.wagc = "https://whatsapp.com/channel/0029Vag5KuDJf05hYaxhNa0E"
@@ -27,9 +27,9 @@ global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD15' //script link
 global.packname = "𝑲𝒂𝒚𝒛𝒆𝒏 °᭄ᴮᵒᵗ"
 global.author = "𝑭𝒊𝒌𝒓𝒊 ダ"
-global.creator = "6285810018405@s.whatsapp.net"
+global.creator = "2347017055600@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["6285810018405"] // Premium User
+global.premium = ["2347017055600"] // Premium User
 
 //channel id
 global.xchannel = {
